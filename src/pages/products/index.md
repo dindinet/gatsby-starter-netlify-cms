@@ -3,7 +3,7 @@ heading: Give your mind and body a treat
 path: /products
 templateKey: product-page
 title: Thai Yoga Massage Sessions
-image: https://yogadigest.com/wp-content/uploads/2014/09/shutterstock_155478860-770x439_c.jpg
+image: /img/thai-yoga-massage.jpg
 description: Thai Yoga Massage is a wonderful way to relieve you mind and body
   of the stresses and strains of modern life.
 intro:
